@@ -22,7 +22,7 @@ My doctoral research investigates **health promotion strategies** in educational
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/SPSS-FF6C37?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" />
-![Mplus](https://img.shields.io/badge/Mplus-4B8BBE?style=flat&logoColor=white)
+<img src= "https://img.shields.io/badge/Mplus-4B8BBE?style=flat&logoColor=white" />
 </p>
 
 
