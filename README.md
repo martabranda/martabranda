@@ -2,7 +2,7 @@
 *Università degli Studi di Milano-Bicocca*
 
 [![Email](https://img.shields.io/badge/Email-m.branda%40campus.unimib.it-blue?style=flat-square&logo=gmail)](mailto:m.branda@campus.unimib.it)
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0004-3055-7886-green?style=flat-square&logo=orcid)](https://orcid.org/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000-0000-0000-0000-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0004-3055-7886)
 
 ## 🎯 Research Focus
 
