@@ -47,6 +47,4 @@ I'm part of the **Health & Sustainability Lab** at Università degli Studi di Mi
 
 ---
 
-<p align="center">
-<i>Committed to reducing health inequalities through evidence-based educational interventions</i>
-</p>
+
